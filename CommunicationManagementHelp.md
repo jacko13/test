@@ -26,7 +26,7 @@ If you are having problems *accessing* these services, please see the [Onboardin
    - **[Managing Subscriptions](#user-content-managing-subscriptions)**
       - **[Join a Mailing List](#user-content-join-a-mailing-list)**
       - **[Leave a Mailing List](#user-content-leave-a-mailing-list)**
-      - **[Change email frequency](#user-content-altering-your-email-frequency)**
+      - **[Change email frequency](#user-content-Changing-your-email-frequency)**
       - **[Create a new mailing list](#user-content-creating-a-new-mailing-list)**
 - **[Google Drive Teams Help](#user-content-google-drive-help)**
    - **[Accessing the Drives](#user-content-accessing-the-drives)**
