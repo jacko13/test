@@ -209,10 +209,6 @@ If you did not find the solution to your problem on this page, please email the 
 
 [Back to Top](#top)
 
-[One above broken - try this](#user-content-table-of-contents)
-
-[2nd try](#-table-of-contents)
-
 ## Google Drive Help
 
 You will have access to two different CFDE drives.
@@ -222,9 +218,9 @@ You will have access to two different CFDE drives.
  - CFDE Everyone: Everyone has edit access to this drive. It contains the bulk of CFDE files and
  is the main place for collaboration
   
- **All interactions in the CFDE Google Drives are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md).**
+ **All interactions in the CFDE Google Drives are bound by the [CFDE Code of Conduct](https://github.com/nih-cfde/organization/blob/master/CODEOFCONDUCT.md).**
  
- **All documents in the CFDE Google Drive spaces are assumed to be under the [CFDE License](./LICENSE.md) unless another license is specified in the document.**
+ **All documents in the CFDE Google Drive spaces are assumed to be under the [CFDE License](https://github.com/nih-cfde/organization/blob/master/LICENSE.md) unless another license is specified in the document.**
  
 #### Accessing the drives
 
@@ -266,7 +262,7 @@ If you did not find the solution to your problem on this page, or believe you ha
 
 Slack is a group chat system similar to a 90's online chat room. You can use it to talk, to share files, and even to voice chat; and it supports an unlimited number of private and public 'channels' as well as private instant messaging with any number of members. We have already installed a number of apps that allow you to do things like Doodle polls or displaying GitHub issues inside a channel, however members can install others as needed.
 
-All interactions in the CFDE Slack, including inside of private messages and channels are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md).
+All interactions in the CFDE Slack, including inside of private messages and channels are bound by the [CFDE Code of Conduct](https://github.com/nih-cfde/organization/blob/master/CODEOFCONDUCT.md).
 
 #### Channels
 ##### Joining Channels
@@ -288,7 +284,7 @@ As a member of our Slack community, you must be a part of #general, however you 
 - Choose `Leave #ChannelName` It will be the last option in the dropdown menu
 
 ##### Adding a Channel
-Members are welcome to add channels for topics not currently covered by other channels, and are not restricted to CFDE topics (i.e. a channel that's all cat pictures all the time is perfectly fine). However, all interactions in the CFDE Slack, including private messages and channels are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md), and messages that constitute harassment of any kind will not be tolerated.
+Members are welcome to add channels for topics not currently covered by other channels, and are not restricted to CFDE topics (i.e. a channel that's all cat pictures all the time is perfectly fine). However, all interactions in the CFDE Slack, including private messages and channels are bound by the [CFDE Code of Conduct](https://github.com/nih-cfde/organization/blob/master/CODEOFCONDUCT.md), and messages that constitute harassment of any kind will not be tolerated.
 
 To create a new channel:
 - Click on the plus sign in a circle *next* to the word 'Channels' in the sidebar 
