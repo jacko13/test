@@ -15,36 +15,36 @@ If you are having problems *accessing* these services, please see the [Onboardin
 ## Table of Contents
 
 - **[GitHub Help](#user-content-github-help)** This page is for changing GitHub notification and other settings. For help with *using* GitHub, for e.g. opening issues or making pull requests, see the [Usage Guide](https://github.com/nih-cfde/organization/blob/master/projectmanagement/GitHubUsage.md)
-   - **[Definitions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#definitions)**
-   - **[Changing Notifications](#changing-notifications)**
-       - **[Watching Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-settings)**
-       - **[Notifications Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#notification-settings)**
-       - **[Subscriptions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#subscriptions)**
-       - **[Watching Repos and Teams](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-repos-and-teams)**
-- **[groups.io Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#groupsio-help)**
-   - **[Getting Mail](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#getting-mail)**
-   - **[Managing Subscriptions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#managing-subscriptions)**
-      - **[Join a Mailing List](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#join-a-mailing-list)**
-      - **[Leave a Mailing List](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#leave-a-mailing-list)**
-      - **[Change email frequency](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#altering-your-email-frequency)**
-      - **[Create a new mailing list](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#creating-a-new-mailing-list)**
-- **[Google Drive Teams Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#google-drive-help)**
-   - **[Accessing the Drives](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#accessing-the-drives)**
-   - **[Sharing Files](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#sharing-files)** 
-- **[Slack Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#slack-help)**
-   - **[Channels](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#channels)**
-      - **[Joining a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#joining-channels)**
-      - **[Leaving a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#leaving-a-channel)**
-      - **[Adding a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#adding-a-channel)**
-   - **[Getting someones attention](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#getting-someones-attention)**
-      - **[Callouts](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#call-outs)**
-      - **[Private messages (Direct messages)](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#private-messages)**
-      - **[Private message vs Private channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#private-messages-vs-private-channels)**
-   - **[Threads](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#threads)**
-   - **[Search](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#search)**
-   - **[Apps](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#apps)**
-   - **[Reactions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#reactions)**
-   - **[Notifications](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#notifications)**
+   - **[Definitions](#user-content-definitions)**
+   - **[Changing Notifications](#user-content-changing-notifications)**
+       - **[Watching Settings](#user-content-watching-settings)**
+       - **[Notifications Settings](#user-content-notification-settings)**
+       - **[Subscriptions](#user-content-subscriptions)**
+       - **[Watching Repos and Teams](#user-content-watching-repos-and-teams)**
+- **[groups.io Help](#user-content-groupsio-help)**
+   - **[Getting Mail](#user-content-getting-mail)**
+   - **[Managing Subscriptions](#user-content-managing-subscriptions)**
+      - **[Join a Mailing List](#user-content-join-a-mailing-list)**
+      - **[Leave a Mailing List](#user-content-leave-a-mailing-list)**
+      - **[Change email frequency](#user-content-altering-your-email-frequency)**
+      - **[Create a new mailing list](#user-content-creating-a-new-mailing-list)**
+- **[Google Drive Teams Help](#user-content-google-drive-help)**
+   - **[Accessing the Drives](#user-content-accessing-the-drives)**
+   - **[Sharing Files](#user-content-sharing-files)** 
+- **[Slack Help](#user-content-slack-help)**
+   - **[Channels](#user-content-channels)**
+      - **[Joining a Channel](#user-content-joining-channels)**
+      - **[Leaving a Channel](#user-content-leaving-a-channel)**
+      - **[Adding a Channel](#user-content-adding-a-channel)**
+   - **[Getting someones attention](#user-content-getting-someones-attention)**
+      - **[Callouts](#user-content-call-outs)**
+      - **[Private messages (Direct messages)](#user-content-private-messages)**
+      - **[Private message vs Private channel](#user-content-private-messages-vs-private-channels)**
+   - **[Threads](#user-content-threads)**
+   - **[Search](#user-content-search)**
+   - **[Apps](#user-content-apps)**
+   - **[Reactions](#user-content-reactions)**
+   - **[Notifications](#user-content-notifications)**
    
 ## GitHub Help
 
@@ -82,7 +82,7 @@ For each repository in the list, decide how often you want to hear about it. The
 
 <img src="https://github.com/nih-cfde/organization/blob/master/images/watchingoptions.png" alt="Watching Options" width="600"/>
 
-For repositories that you actively work in, and would like to be notified of things like PRs and conversations, choose 'Watching'. You can set what types of actions send you notifications using the [Notification Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#notification-settings) instructions below.
+For repositories that you actively work in, and would like to be notified of things like PRs and conversations, choose 'Watching'. You can set what types of actions send you notifications using the [Notification Settings](#user-content-notification-settings) instructions below.
 
 For most other repositories, you will likely want to set them to 'Not Watching' or 'Releases Only'. Both of these options will
 only send you notifications if someone specifically invokes you or your team in a PR, comment, etc.
@@ -102,7 +102,7 @@ Your current notification settings will look like this:
 To stop GitHub from automatically watching repos in the future, you should uncheck the 'Automatically watch repositories' box. 
 You can also stop GitHub from automatically watching any new Teams.
 
-Note that if you uncheck these boxes you will have to specifically turn on 'watching' for specific repos and teams you become interested in later ([See Watching Repos and Teams](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-repos-and-teams) below). 
+Note that if you uncheck these boxes you will have to specifically turn on 'watching' for specific repos and teams you become interested in later ([See Watching Repos and Teams](#user-content-watching-repos-and-teams) below). 
 
 **Participating section**
 Here you can choose where you receive notifications for discussions you are *actively participating in*. This includes things like PRs or Issues you made, PRs or Issues your have reviewed or commented on, and other conversations where your name is mentioned.
