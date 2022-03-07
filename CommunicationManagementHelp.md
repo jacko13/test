@@ -1,7 +1,7 @@
 ## CFDE Communication Management Help Overview
 
 We are using a number of services to communicate and share files:
-  - [Github](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#github-help): Code sharing, organization and deliverables tracking
+  - [Github](#github-help): Code sharing, organization and deliverables tracking
   - [groups.io](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#groupsio-help): mailing lists
   - [Google Drive Teams](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#google-drive-help): file sharing
   - [Slack](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#slack-help): Group chat, forum and instant private messaging
@@ -14,7 +14,7 @@ If you are having problems *accessing* these services, please see the [Onboardin
 
 ## Table of Contents
 
-- **[GitHub Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#github-help)** This page is for changing GitHub notification and other settings. For help with *using* GitHub, for e.g. opening issues or making pull requests, see the [Usage Guide](https://github.com/nih-cfde/organization/blob/master/projectmanagement/GitHubUsage.md)
+- **[GitHub Help](#github-help)** This page is for changing GitHub notification and other settings. For help with *using* GitHub, for e.g. opening issues or making pull requests, see the [Usage Guide](https://github.com/nih-cfde/organization/blob/master/projectmanagement/GitHubUsage.md)
    - **[Definitions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#definitions)**
    - **[Changing Notifications](#changing-notifications)**
        - **[Watching Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-settings)**
@@ -75,8 +75,6 @@ There are two places where you will need to change your settings to reduce the n
 
 First, make sure you are only watching repos that you are actively interested in tracking. Since everyone in our Organization has at least read access to all our repos, you'll be watching all of them, regardless of how they relate to your role. You can see all the repos you are watching at this link: https://github.com/watching
 You should get something like this:
-
-![Watch List](https://github.com/nih-cfde/organization/blob/master/images/watching.png)
 
 <img src="https://github.com/nih-cfde/organization/blob/master/images/watching.png" alt="Watch List" width="600"/>
 
