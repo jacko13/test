@@ -192,7 +192,7 @@ You can alter your subscription to a mailing list you already receive by:
 - Ensuring that your 'Email Delivery' option is correct. Most users will want 'Individual Messages', 'Full Featured Digest', or 'Daily Summary', which will email you every message, messages in groups of 12, or a summary of all the days messages, respectively. 
 
 ##### Creating a new mailing list
-All mailing lists in the CFDE groups.io, including any private lists you may make, are bound by the [CFDE Code of Conduct](https://github.com/nih-cfde/organization/blob/master/CODEOFCONDUCT.md)
+All mailing lists in the CFDE groups.io, including any private lists you may make, are bound by the [CFDE Code of Conduct](https://github.com/nih-cfde/organization/blob/master/CODEOFCONDUCT.md).
 To create a new mailing list:
 - Navigate to https://cfde.groups.io/g/General
 - Click on `Subgroups` on the left side of the screen
