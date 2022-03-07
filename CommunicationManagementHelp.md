@@ -154,7 +154,7 @@ If you did not find the solution to your problem on this page, please email the 
 ## groups.io Help
 
 We are using groups.io to manage our mailing lists. Our overall groups.io account is restricted access and can only be joined 
-by filling out the [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9), however most mailing lists are unrestricted to members, and you can edit your subscriptions at any time. See the list of [available mailing lists here](./MailingLists.md).
+by filling out the [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9), however most mailing lists are unrestricted to members, and you can edit your subscriptions at any time. See the list of [available mailing lists here](https://github.com/nih-cfde/organization/blob/master/MailingLists.md).
 
 #### Getting Mail
 If you are not receiving or are only intermittedly receiving, mail, you may need to add CFDE@groups.io to your safe sender list in your email client’s contacts.
