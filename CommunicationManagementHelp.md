@@ -1,10 +1,10 @@
 ## CFDE Communication Management Help Overview
 
 We are using a number of services to communicate and share files:
-  - [Github](#github-help): Code sharing, organization and deliverables tracking
-  - [groups.io](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#groupsio-help): mailing lists
-  - [Google Drive Teams](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#google-drive-help): file sharing
-  - [Slack](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#slack-help): Group chat, forum and instant private messaging
+  - [Github](#user-content-github-help): Code sharing, organization and deliverables tracking
+  - [groups.io](#user-content-groupsio-help): mailing lists
+  - [Google Drive Teams](#user-content-google-drive-help): file sharing
+  - [Slack](#user-content-slack-help): Group chat, forum and instant private messaging
 
 Depending on your role and needs, you may find that the default settings for these services
 give you too many, or too few, notifications. On this page you will find instructions for 
