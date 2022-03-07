@@ -14,7 +14,7 @@ If you are having problems *accessing* these services, please see the [Onboardin
 
 ## Table of Contents
 
-- **[GitHub Help](#github-help)** This page is for changing GitHub notification and other settings. For help with *using* GitHub, for e.g. opening issues or making pull requests, see the [Usage Guide](https://github.com/nih-cfde/organization/blob/master/projectmanagement/GitHubUsage.md)
+- **[GitHub Help](#user-content-github-help)** This page is for changing GitHub notification and other settings. For help with *using* GitHub, for e.g. opening issues or making pull requests, see the [Usage Guide](https://github.com/nih-cfde/organization/blob/master/projectmanagement/GitHubUsage.md)
    - **[Definitions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#definitions)**
    - **[Changing Notifications](#changing-notifications)**
        - **[Watching Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-settings)**
