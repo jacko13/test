@@ -76,6 +76,8 @@ There are two places where you will need to change your settings to reduce the n
 First, make sure you are only watching repos that you are actively interested in tracking. Since everyone in our Organization has at least read access to all our repos, you'll be watching all of them, regardless of how they relate to your role. You can see all the repos you are watching at this link: https://github.com/watching
 You should get something like this:
 
+![Watch List](https://github.com/nih-cfde/organization/blob/master/images/watching.png | width=600)
+
 <img src="https://github.com/nih-cfde/organization/blob/master/images/watching.png" alt="Watch List" width="600"/>
 
 For each repository in the list, decide how often you want to hear about it. There are four options: 'Not Watching', 'Releases Only', 'Watching' and 'Ignoring'
