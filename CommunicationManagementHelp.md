@@ -1,10 +1,10 @@
 ## CFDE Communication Management Help Overview
 
 We are using a number of services to communicate and share files:
-  - [Github](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#github-help): Code sharing, organization and deliverables tracking
-  - [groups.io](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#groupsio-help): mailing lists
-  - [Google Drive Teams](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#google-drive-help): file sharing
-  - [Slack](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#slack-help): Group chat, forum and instant private messaging
+  - [Github](#github-help): Code sharing, organization and deliverables tracking
+  - [groups.io](#groupsio-help): mailing lists
+  - [Google Drive Teams](#google-drive-help): file sharing
+  - [Slack](#slack-help): Group chat, forum and instant private messaging
 
 Depending on your role and needs, you may find that the default settings for these services
 give you too many, or too few, notifications. On this page you will find instructions for 
@@ -14,37 +14,37 @@ If you are having problems *accessing* these services, please see the [Onboardin
 
 ## Table of Contents
 
-- **[GitHub Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#github-help)** This page is for changing GitHub notification and other settings. For help with *using* GitHub, for e.g. opening issues or making pull requests, see the [Usage Guide](projectmanagement/GitHubUsage.md)
-   - **[Definitions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#definitions)**
-   - **[Changing Notifications](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#changing-notifications)**
-       - **[Watching Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-settings)**
-       - **[Notifications Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#notification-settings)**
-       - **[Subscriptions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#subscriptions)**
-       - **[Watching Repos and Teams](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-repos-and-teams)**
-- **[groups.io Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#groupsio-help)**
-   - **[Getting Mail](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#getting-mail)**
-   - **[Managing Subscriptions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#managing-subscriptions)**
-      - **[Join a Mailing List](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#join-a-mailing-list)**
-      - **[Leave a Mailing List](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#leave-a-mailing-list)**
-      - **[Change email frequency](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#altering-your-email-frequency)**
-      - **[Create a new mailing list](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#creating-a-new-mailing-list)**
-- **[Google Drive Teams Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#google-drive-help)**
-   - **[Accessing the Drives](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#accessing-the-drives)**
-   - **[Sharing Files](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#sharing-files)** 
-- **[Slack Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#slack-help)**
-   - **[Channels](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#channels)**
-      - **[Joining a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#joining-channels)**
-      - **[Leaving a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#leaving-a-channel)**
-      - **[Adding a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#adding-a-channel)**
-   - **[Getting someones attention](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#getting-someones-attention)**
-      - **[Callouts](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#call-outs)**
-      - **[Private messages (Direct messages)](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#private-messages)**
-      - **[Private message vs Private channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#private-messages-vs-private-channels)**
-   - **[Threads](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#threads)**
-   - **[Search](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#search)**
-   - **[Apps](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#apps)**
-   - **[Reactions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#reactions)**
-   - **[Notifications](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#notifications)**
+- **[GitHub Help](#github-help)** This page is for changing GitHub notification and other settings. For help with *using* GitHub, for e.g. opening issues or making pull requests, see the [Usage Guide](projectmanagement/GitHubUsage.md)
+   - **[Definitions](#definitions)**
+   - **[Changing Notifications](#changing-notifications)**
+       - **[Watching Settings](#watching-settings)**
+       - **[Notifications Settings](#notification-settings)**
+       - **[Subscriptions](#subscriptions)**
+       - **[Watching Repos and Teams](#watching-repos-and-teams)**
+- **[groups.io Help](#groupsio-help)**
+   - **[Getting Mail](#getting-mail)**
+   - **[Managing Subscriptions](#managing-subscriptions)**
+      - **[Join a Mailing List](#join-a-mailing-list)**
+      - **[Leave a Mailing List](#leave-a-mailing-list)**
+      - **[Change email frequency](#altering-your-email-frequency)**
+      - **[Create a new mailing list](#creating-a-new-mailing-list)**
+- **[Google Drive Teams Help](#google-drive-help)**
+   - **[Accessing the Drives](#accessing-the-drives)**
+   - **[Sharing Files](#sharing-files)** 
+- **[Slack Help](#slack-help)**
+   - **[Channels](#channels)**
+      - **[Joining a Channel](#joining-channels)**
+      - **[Leaving a Channel](#leaving-a-channel)**
+      - **[Adding a Channel](#adding-a-channel)**
+   - **[Getting someones attention](#getting-someones-attention)**
+      - **[Callouts](#call-outs)**
+      - **[Private messages (Direct messages)](#private-messages)**
+      - **[Private message vs Private channel](#private-messages-vs-private-channels)**
+   - **[Threads](#threads)**
+   - **[Search](#search)**
+   - **[Apps](#apps)**
+   - **[Reactions](#reactions)**
+   - **[Notifications](#notifications)**
    
 ## GitHub Help
 
@@ -82,7 +82,7 @@ For each repository in the list, decide how often you want to hear about it. The
 
 ><img src="/images/watchingoptions.png" alt="Watching Options" width="600"/>
 
-For repositories that you actively work in, and would like to be notified of things like PRs and conversations, choose 'Watching'. You can set what types of actions send you notifications using the [Notification Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#notification-settings) instructions below.
+For repositories that you actively work in, and would like to be notified of things like PRs and conversations, choose 'Watching'. You can set what types of actions send you notifications using the [Notification Settings](#notification-settings) instructions below.
 
 For most other repositories, you will likely want to set them to 'Not Watching' or 'Releases Only'. Both of these options will
 only send you notifications if someone specifically invokes you or your team in a PR, comment, etc.
@@ -102,7 +102,7 @@ Your current notification settings will look like this:
 To stop GitHub from automatically watching repos in the future, you should uncheck the 'Automatically watch repositories' box. 
 You can also stop GitHub from automatically watching any new Teams.
 
-Note that if you uncheck these boxes you will have to specifically turn on 'watching' for specific repos and teams you become interested in later ([See Watching Repos and Teams](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-repos-and-teams) below). 
+Note that if you uncheck these boxes you will have to specifically turn on 'watching' for specific repos and teams you become interested in later ([See Watching Repos and Teams](#watching-repos-and-teams) below). 
 
 **Participating section**
 Here you can choose where you receive notifications for discussions you are *actively participating in*. This includes things like PRs or Issues you made, PRs or Issues your have reviewed or commented on, and other conversations where your name is mentioned.
@@ -149,7 +149,7 @@ To watch a new team:
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
-[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
+[Back to Top](#table-of-contents)
 
 ## groups.io Help
 
@@ -207,7 +207,7 @@ To create a new mailing list:
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
-[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
+[Back to Top](#table-of-contents)
 
 ## Google Drive Help
 
@@ -255,7 +255,7 @@ To copy the sharable link:
 
 If you did not find the solution to your problem on this page, or believe you have been assigned the wrong permissions, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
-[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
+[Back to Top](#table-of-contents)
 
 
 ## Slack Help
@@ -367,4 +367,4 @@ You can alter your notifications per channel by:
 
 For more fine grained notification changes, see the [Slack help](https://get.slack.help/hc/en-us/articles/201355156)
 
-[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
+[Back to Top](#table-of-contents)
