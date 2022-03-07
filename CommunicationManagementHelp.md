@@ -52,7 +52,7 @@ This page is for changing GitHub notification and other settings. For help with 
 
 #### Glossary
 
-- Organization: Our GitHub Organization is https://github.com/nih-cfde This is the location on the web where you can access all of the CFDE github repositories. We also have an 'organization' repository, which is a folder that contains all the meta information about our Organization
+- Organization: Our GitHub Organization is https://github.com/nih-cfde. This is the location on the web where you can access all of the CFDE github repositories. We also have an 'organization' repository, which is a folder that contains all the meta information about our Organization
 - Repository: Each repository or 'repo' is a self-contained collection of documents and code. There can be any number of repositories in our Organization, and anyone in our group can make a new repository. See the [New Repository Guidelines](projectmanagement/NewRepositoryGuide.md) for more info
 - Team: Each member of our Organization will be assigned to one or more Teams. The Team(s) you are in determine what repositories you have edit access for. By default everyone has at least read access to all CFDE repositories. Teams can also be tagged into conversations and have other useful features. Anyone in our group can make new teams. 
 - Pull Request: A Pull Request or 'PR' is the main way to share your own edits to documents in a repository
@@ -76,11 +76,11 @@ There are two places where you will need to change your settings to reduce the n
 First, make sure you are only watching repos that you are actively interested in tracking. Since everyone in our Organization has at least read access to all our repos, you'll be watching all of them, regardless of how they relate to your role. You can see all the repos you are watching at this link: https://github.com/watching
 You should get something like this:
 
-<img src="/images/watching.png" alt="Watch List" width="600"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/watching.png" alt="Watch List" width="600"/>
 
 For each repository in the list, decide how often you want to hear about it. There are four options: 'Not Watching', 'Releases Only', 'Watching' and 'Ignoring'
 
-><img src="/images/watchingoptions.png" alt="Watching Options" width="600"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/watchingoptions.png" alt="Watching Options" width="600"/>
 
 For repositories that you actively work in, and would like to be notified of things like PRs and conversations, choose 'Watching'. You can set what types of actions send you notifications using the [Notification Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#notification-settings) instructions below.
 
@@ -96,7 +96,7 @@ edit the default behavior of watching everything. You edit these settings at: ht
 
 Your current notification settings will look like this:
 
-<img src="/images/toomanynotifications.png" alt="Notification Options" width="400"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/toomanynotifications.png" alt="Notification Options" width="400"/>
 
 **Automatic watching section**
 To stop GitHub from automatically watching repos in the future, you should uncheck the 'Automatically watch repositories' box. 
@@ -228,11 +228,11 @@ You must be logged into Google Drive using the email you specified in your [onbo
 
 On the left side of the screen, you should see a button for Team Drives:
 
-<img src="/images/shared-drives.PNG" alt="Shared Drives" width="400"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/shared-drives.PNG" alt="Shared Drives" width="400"/>
 
 You may need to click on the small arrow to see the list of drives you have access to:
 
-<img src="/images/teamdrive2.png" alt="Show Team Drives" width="400"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/teamdrive2.png" alt="Show Team Drives" width="400"/>
 
 #### Sharing Files
 
@@ -243,14 +243,14 @@ To copy the sharable link:
 - Right-click on the desired file and select `Share` OR click on the desired file and click the share button near the top right of the screen
 - Click 'WHO HAS ACCESS' in the bottom left corner of the dialogue box that appears
 
-<img src="/images/who-has-access.PNG" alt="Link Sharing Off" width="300"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/who-has-access.PNG" alt="Link Sharing Off" width="300"/>
 
 - Click the small arrow next to 'Link sharing off' 
 
-<img src="/images/links1.png" alt="Link Sharing Off" width="300"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/links1.png" alt="Link Sharing Off" width="300"/>
 
 - Click the `COPY` button next to the URL 
-<img src="/images/links2.png" alt="Link Sharing Off" width="300"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/links2.png" alt="Link Sharing Off" width="300"/>
 
 
 If you did not find the solution to your problem on this page, or believe you have been assigned the wrong permissions, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
@@ -268,11 +268,11 @@ All interactions in the CFDE Slack, including inside of private messages and cha
 ##### Joining Channels
 By default, everyone is added to #general and #random, but you can join as many other open channels as you like. To see the current list of available channels and join some:
 - Click the *word* 'Channels' in the sidebar 
-<img src="/images/addchannels.png" alt="Channels" width="200"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/addchannels.png" alt="Channels" width="200"/>
 
 - Browse the list of channels under 'Channels you can join' 
 
-<img src="/images/browse.png" alt="Browse" width="200"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/browse.png" alt="Browse" width="200"/>
 
 - Click on any channel to preview the channel and see if it's what you want
 - Click `Join Channel` at the bottom of the screen to join
@@ -288,7 +288,7 @@ Members are welcome to add channels for topics not currently covered by other ch
 
 To create a new channel:
 - Click on the plus sign in a circle *next* to the word 'Channels' in the sidebar 
-<img src="/images/channels.png" alt="Channels" width="200"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/channels.png" alt="Channels" width="200"/>
 
 - Choose whether the channel is public or private. Public channels are listed in the directory and joinable by any member, Private channels are not listed in the directory and are invitation only. Channels for large working groups, general discussion, cat photos, etc, should generally be public. Channels for discussing the travel plans of your small working group, steering committees, etc should generally be private. (See [Private messages vs Private Channels]() below for more info.)
 - Choose a short, but descriptive name
@@ -302,7 +302,7 @@ Typing a question intended for one person into #general or another busy channel 
 ##### Call Outs
 If you want one, or a few, people to answer a question *publically* you can ask with a callout in a channel. For example, to ask the 2-3 people who might know: "When is the next Project Management meeting?", you can use the `@` to have each person you list get a notification directing them to your message like this:
 
-<img src="/images/callouts.png" alt="callouts" width="500"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/callouts.png" alt="callouts" width="500"/>
 
 - If you want everyone who is currently online in that channel to get a notification use `@here` 
 - For everyone in the channel, even if they aren't online use `@channel`
@@ -327,12 +327,12 @@ Slack supports chat threading. This allows you to continue conversations in a bu
 To start a new thread:
 - Choose a message in the main chat window that you'd like to continue talking about
 - Hover over the message with your cursor 
-<img src="/images/thread.png" alt="Start a thread" width="400"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/thread.png" alt="Start a thread" width="400"/>
 - On the right hand side, click the speech bubble icon labeled 'Start a thread'
 - This will split your chat window and put your message directly after the reply 
-<img src="/images/thread2.png" alt="Start a thread" width="400"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/thread2.png" alt="Start a thread" width="400"/>
 - In busy channels where the original message quickly scrolls off the screen, you can easily track replies to your threads by clicking on 'Threads' at the top of the sidebar 
-<img src="/images/threads3.png" alt="Start a thread" width="400"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/threads3.png" alt="Start a thread" width="400"/>
 
 #### Search
 Slack supports global search of your messages, so you don't have to remember what channel you read that important thing in. To search, type your query in the search bar in the top right corner. It doesn't matter what channel you are in when you start your search. 
@@ -340,7 +340,7 @@ Slack supports global search of your messages, so you don't have to remember wha
 - To confine your search to one channel, include the channel name, e.g. to find where someone mentioned the meeting in the PM channel search: `#project-management meeting`
 - To search all public channels (regardless of whether you are a member) as well as all private channels and private messages that include you, just search your word, e.g. `meeting`
 - To search only public and private channels that you are a member of and your private messages, do the above search and then filter the results by checking the 'Only search my channels' box
-<img src="/images/filter.png" alt="filter" width="300"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/filter.png" alt="filter" width="300"/>
 
 - You can also filter your results by person, channel, and date range
 
