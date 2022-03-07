@@ -14,7 +14,7 @@ If you are having problems *accessing* these services, please see the [Onboardin
 
 ## Table of Contents
 
-- **[GitHub Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#github-help)** This page is for changing GitHub notification and other settings. For help with *using* GitHub, for e.g. opening issues or making pull requests, see the [Usage Guide](projectmanagement/GitHubUsage.md)
+- **[GitHub Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#github-help)** This page is for changing GitHub notification and other settings. For help with *using* GitHub, for e.g. opening issues or making pull requests, see the [Usage Guide](https://github.com/nih-cfde/organization/blob/master/projectmanagement/GitHubUsage.md)
    - **[Definitions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#definitions)**
    - **[Changing Notifications](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#changing-notifications)**
        - **[Watching Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-settings)**
@@ -149,7 +149,7 @@ To watch a new team:
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
-[Back to Top](#table-of-contents)
+[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
 
 ## groups.io Help
 
