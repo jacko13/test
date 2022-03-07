@@ -149,7 +149,7 @@ To watch a new team:
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
-[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
+[Back to Top](#table-of-contents)
 
 ## groups.io Help
 
