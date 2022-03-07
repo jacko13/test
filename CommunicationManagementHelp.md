@@ -290,7 +290,7 @@ To create a new channel:
 - Click on the plus sign in a circle *next* to the word 'Channels' in the sidebar 
 <img src="https://github.com/nih-cfde/organization/blob/master/images/channels.png" alt="Channels" width="200"/>
 
-- Choose whether the channel is public or private. Public channels are listed in the directory and joinable by any member, Private channels are not listed in the directory and are invitation only. Channels for large working groups, general discussion, cat photos, etc, should generally be public. Channels for discussing the travel plans of your small working group, steering committees, etc should generally be private. (See [Private messages vs Private Channels]() below for more info.)
+- Choose whether the channel is public or private. Public channels are listed in the directory and joinable by any member, Private channels are not listed in the directory and are invitation only. Channels for large working groups, general discussion, cat photos, etc, should generally be public. Channels for discussing the travel plans of your small working group, steering committees, etc should generally be private. (See [Private messages vs Private Channels](#user-content-private-messages-vs-private-channels) below for more info.)
 - Choose a short, but descriptive name
 - If your channel is public, be sure to give it a purpose (description) so people can tell what it's about
 - Invite people you think (or know) want to be a part of your channel 
