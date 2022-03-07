@@ -13,9 +13,8 @@ altering common settings as well as links out to more detailed information.
 If you are having problems *accessing* these services, please see the [Onboarding Help](https://github.com/nih-cfde/organization/blob/master/OnboardingHelp.md)
 
 ## Table of Contents
-[#table-of-contents](#Table of Contents)
 
-- **[GitHub Help](#github-help)** This page is for changing GitHub notification and other settings. For help with *using* GitHub, for e.g. opening issues or making pull requests, see the [Usage Guide](projectmanagement/GitHubUsage.md)
+- **[GitHub Help](#github-help)** This page is for changing GitHub notification and other settings. For help with *using* GitHub, for e.g. opening issues or making pull requests, see the [Usage Guide](#projectmanagement/GitHubUsage.md)
    - **[Definitions](#definitions)**
    - **[Changing Notifications](#changing-notifications)**
        - **[Watching Settings](#watching-settings)**
@@ -303,7 +302,7 @@ Typing a question intended for one person into #general or another busy channel 
 ##### Call Outs
 If you want one, or a few, people to answer a question *publically* you can ask with a callout in a channel. For example, to ask the 2-3 people who might know: "When is the next Project Management meeting?", you can use the `@` to have each person you list get a notification directing them to your message like this:
 
-<img src="/https://github.com/nih-cfde/organization/blob/master/images/callouts.png" alt="callouts" width="500"/>
+<img src="https://github.com/nih-cfde/organization/blob/master/images/callouts.png" alt="callouts" width="500"/>
 
 - If you want everyone who is currently online in that channel to get a notification use `@here` 
 - For everyone in the channel, even if they aren't online use `@channel`
