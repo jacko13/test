@@ -149,7 +149,7 @@ To watch a new team:
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
-[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
+[Back to Top](#top)
 
 ## groups.io Help
 
@@ -207,7 +207,7 @@ To create a new mailing list:
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
-[Back to Top](#table-of-contents)
+[Back to Top](#top)
 
 [One above broken - try this](#user-content-table-of-contents)
 
@@ -259,7 +259,7 @@ To copy the sharable link:
 
 If you did not find the solution to your problem on this page, or believe you have been assigned the wrong permissions, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
-[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
+[Back to Top](#top)
 
 
 ## Slack Help
@@ -371,4 +371,4 @@ You can alter your notifications per channel by:
 
 For more fine grained notification changes, see the [Slack help](https://get.slack.help/hc/en-us/articles/201355156)
 
-[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
+[Back to Top](#top)
